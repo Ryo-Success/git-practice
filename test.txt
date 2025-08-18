@@ -1,4 +1,5 @@
 Hello from test
 Hello GitHub!
 test code
+*****Aの変更*****
 ***** ここをBが編集 *****
